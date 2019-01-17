@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.p
+hub/
+project_tests.py
